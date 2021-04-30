@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1444px" height="67px" preserveAspectRatio="xMidYMid slice" viewBox="0 0 1444 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>separator-1</title>
+    <g id="separator-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(2.000000, 4.000000)" id="Path-7" stroke="#050505" stroke-width="3">
+            <polyline points="0 60 47.5 0 77.5 36 110.5 0 145.5 60 168 21.5 196.5 60 217 21.5 239 36 304.5 0 349 48 419 0 460 60 503.5 21.5 518.5 48 562.5 12.5 609 48 640.5 12.5 719 60 759 0 771.5 48 801 36 830 48 879 21.5 931.5 60 972 0 1022 60 1080 0 1120 30 1153 21.5 1184 48 1240.5 21.5 1269.5 60 1330 12.5 1369 60 1430 0 1440 60"></polyline>
+        </g>
+    </g>
+</svg>
