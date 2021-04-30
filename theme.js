@@ -18,7 +18,7 @@ export default {
     white: '#fff',
     black: '#050505',
     // primary: '#F6E452',
-    primary: '#f6e436',
+    primary: '#56BDED',
     secondary: '#FF9F9F',
     secondaryDark: '#FF6B6B',
     codeBg: '#fdf6e3',

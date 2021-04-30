@@ -9,26 +9,28 @@ import Logo from '~/shared/Logo';
 export const menuItems = [
   {
     id: 'main',
-    title: 'Main',
+    title: 'Главная',
     href: '/',
   },
 
   {
     id: 'blog',
-    title: 'Blog',
+    title: 'Блог',
     href: '/blog',
   },
 
   {
-    id: 'talks',
-    title: 'Talks',
-    href: '/talks',
+    id: 'about',
+    title: 'О проекте',
+    href: '/about',
   },
+  /*
   {
     id: 'influences',
     title: 'Influences',
     href: '/influences',
   },
+  */
   /*
   {
     id: 'music',

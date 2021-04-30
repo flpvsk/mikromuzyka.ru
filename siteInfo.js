@@ -1,6 +1,6 @@
 export default {
-  siteName: 'Andrey Salomatin',
-  blogName: `Living structure`,
+  siteName: 'Микро Музыка',
+  blogName: `Блог`,
   blogTitle: `Living structure – Blog by @flpvsk`,
   twitterLink: 'https://twitter.com/flpvsk',
   githubLink: 'https://github.com/flpvsk',
