@@ -4,7 +4,7 @@ import IconLink from './IconLink';
 
 import siteInfo from '../siteInfo';
 
-export default function IconLinkTwitter(props) {
+export default function IconLinkGithub(props) {
   return (
     <IconLink
       {...props}

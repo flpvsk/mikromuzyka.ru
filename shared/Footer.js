@@ -2,9 +2,7 @@ import React from 'react';
 import styled from '@emotion/styled';
 
 import Caption from './Caption';
-import IconLinkTwitter from './IconLinkTwitter';
-import IconLinkGithub from './IconLinkGithub';
-import IconLinkEmail from './IconLinkEmail';
+import IconLinkYouTube from './IconLinkYouTube';
 import LinkExternal from './LinkExternal';
 import Input from './Input';
 import Button from './Button';
@@ -18,7 +16,7 @@ import siteInfo from '../siteInfo';
 function TextLicense() {
   return (
     <>
-      {`All text licensed under the `}
+      {`Текст под лицензией `}
       <LinkExternal
         color={'black'}
         href='https://creativecommons.org/licenses/by-nc/4.0/'
@@ -36,11 +34,11 @@ function SourceCodeLicense() {
     <>
       <LinkExternal
         color={'black'}
-        href='https://github.com/flpvsk/flpvsk.com'
+        href='https://github.com/flpvsk/mikromuzyka.ru'
       >
-        Source code of the website
+        Код сайта
       </LinkExternal>
-      {` licensed under the `}
+      {` под лицензией `}
       <LinkExternal
         color={'black'}
         href='https://tldrlegal.com/license/mit-license'
@@ -85,6 +83,7 @@ export default function Footer() {
         flexDirection='column'
         alignItems={['flex-start', 'flex-start', 'flex-start']}
       >
+       {/*
         <form
           style={{ width: '100%', margin: 0 }}
           action='https://tinyletter.com/flpvsk'
@@ -110,6 +109,7 @@ export default function Footer() {
             <Button ml={1}>Subscribe</Button>
           </BoxFlex>
         </form>
+        */}
       </BoxFlex>
       <BoxFlex
         gridRow={[2, 2, 1]}
@@ -119,9 +119,7 @@ export default function Footer() {
         flexDirection='row'
         justifyContent={['flex-start', 'flex-start', 'flex-end']}
       >
-        <IconLinkTwitter height={24} />
-        <IconLinkGithub height={24} ml={3} />
-        <IconLinkEmail height={24} ml={3} />
+        <IconLinkYouTube height={24} ml={3} />
       </BoxFlex>
     </BoxFooter>
   );

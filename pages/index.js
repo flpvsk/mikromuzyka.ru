@@ -146,6 +146,7 @@ function RecentPosts({ theme }) {
         </Button>
       </Box>
 
+      {/*
       <BoxFlex
         gridRow={2}
         gridColumn={2}
@@ -207,6 +208,7 @@ function RecentPosts({ theme }) {
           </BoxFlex>
         </Box>
       </BoxFlex>
+      */}
     </BoxGrid>
   );
 }
@@ -214,6 +216,7 @@ function RecentPosts({ theme }) {
 const Home = withTheme(({ theme }) => {
   return (
     <BoxGrid
+      minHeight={'100vh'}
       gridTemplateRows={['auto']}
       gridTemplateColumns={['1fr']}
     >

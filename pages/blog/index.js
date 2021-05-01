@@ -18,6 +18,7 @@ export default function Blog() {
     <BoxGrid
       gridTemplateColumns={'100vw'}
       gridTemplateRows={'auto'}
+      minHeight={'100vh'}
     >
       <Head>
         <title>{siteInfo.blogTitle}</title>
@@ -51,7 +52,7 @@ export default function Blog() {
             mt={[ 1, 1, 1 ]}
             textAlign='center'
           >
-            {`blog by Andrey Salomatin`}
+            {`Микро Музыка`}
           </TextHeading>
         </header>
 

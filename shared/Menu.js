@@ -96,20 +96,23 @@ export default function Menu({
 
   return (
     <BoxFlex
-      pl={[2, 3, 4]}
+      pl={[1, 1, 1]}
       pr={[2, 3, 4]}
       alignItems='stretch'
       borderBottom='1px solid'
       borderColor='black'
       bg='white'
       zIndex='2'
+      height='61px'
       {...stickyProps}
     >
+      {/*
       <Link href={'/'} passHref>
         <LinkNoDecoration display='flex' alignItems='center'>
           <Logo size={40} innerColor={'primary'} outerColor='black' />
         </LinkNoDecoration>
       </Link>
+      */}
       {itemsMapped}
     </BoxFlex>
   );

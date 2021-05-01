@@ -28,7 +28,7 @@ import siteInfo from '../siteInfo';
 
 function dateToText(date) {
   const d = new Date(date);
-  return d.toLocaleDateString('en-US', {
+  return d.toLocaleDateString('ru-RU', {
     year: 'numeric',
     month: 'long',
     day: 'numeric',

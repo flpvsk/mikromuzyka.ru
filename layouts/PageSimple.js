@@ -20,7 +20,11 @@ export default function PageSimple({
   currentMenuItemId,
 }) {
   return (
-    <BoxGrid gridTemplateColumns={'100vw'} gridTemplateRows={'auto'}>
+    <BoxGrid
+      minHeight={'100vh'}
+      gridTemplateColumns={'100vw'}
+      gridTemplateRows={'auto'}
+    >
       <Head>
         <title>{`${title} – ${siteInfo.siteName}`}</title>
       </Head>
