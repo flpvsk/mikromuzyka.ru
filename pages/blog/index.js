@@ -16,7 +16,7 @@ import siteInfo from '~/siteInfo';
 export default function Blog() {
   return (
     <BoxGrid
-      gridTemplateColumns={'100vw'}
+      gridTemplateColumns={'100%'}
       gridTemplateRows={'auto'}
       minHeight={'100vh'}
     >

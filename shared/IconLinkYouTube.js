@@ -24,7 +24,7 @@ export default function IconLinkYouTube(props) {
         <g
           id="yt_icon_mono_light"
           stroke="none"
-          stroke-width="1"
+          strokeWidth="1"
           fill="none"
           fill-rule="evenodd"
         >

@@ -22,7 +22,7 @@ export default function PageSimple({
   return (
     <BoxGrid
       minHeight={'100vh'}
-      gridTemplateColumns={'100vw'}
+      gridTemplateColumns={'100%'}
       gridTemplateRows={'auto'}
     >
       <Head>

@@ -56,7 +56,6 @@ const createPostList = fileNameList => {
 
 module.exports = async function listPosts() {
   try {
-    console.log('x');
     const fileNames = await postFileNames();
     const postList = createPostList(fileNames);
     return postList

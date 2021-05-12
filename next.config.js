@@ -26,5 +26,6 @@ const withMDX = buildConfig({
 });
 
 module.exports = withMDX({
-  pageExtensions: ['js', 'jsx', 'md', 'mdx']
+  pageExtensions: ['js', 'jsx', 'md', 'mdx'],
+  trailingSlash: true,
 });
