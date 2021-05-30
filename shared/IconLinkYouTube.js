@@ -26,7 +26,7 @@ export default function IconLinkYouTube(props) {
           stroke="none"
           strokeWidth="1"
           fill="none"
-          fill-rule="evenodd"
+          fillRule="evenodd"
         >
             <g id="Group-3">
               <mask id="mask-2" fill="white">

@@ -51,7 +51,6 @@ export default makeBlogPost(meta);
 
 * [musikding.de](https://musikding.de)
 * [banzaimusic.com](http://www.banzaimusic.com)
-* [pedalpcb.com](https://www.pedalpcb.com)
 * [thonk.co.uk](http://thonk.co.uk)
 * [exploding-shed.com](https://www.exploding-shed.com)
 * [3u-shop.de](https://www.3u-shop.de)
