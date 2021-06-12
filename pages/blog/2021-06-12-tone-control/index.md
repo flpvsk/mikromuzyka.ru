@@ -30,6 +30,7 @@ export default makeBlogPost(meta);
 ## Ссылки
 
 * [VCV Rack](https://vcvrack.com)
+* [Калькулятор фильтров](http://www.learningaboutelectronics.com/Articles/Low-pass-filter-calculator.php)
 * [Анализ Big Muff (англ)](https://www.electrosmash.com/big-muff-pi-analysis)
 * [bigmuffpage.com](http://www.bigmuffpage.com)
 * [Где взять компоненты](https://mikromuzyka.ru/blog/2021-05-01-kak-nachat-delat-elektronnye-instrumenty-syntezatory-i-effekty/)
