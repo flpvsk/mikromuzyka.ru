@@ -32,5 +32,5 @@ export default makeBlogPost(meta);
 * [Видео про этот осциллятор от Casper Electronics](https://www.youtube.com/watch?v=FaoJaLmZaL4)
 * [VCV Rack](https://vcvrack.com)
 * [Калькулятор фильтров](http://www.learningaboutelectronics.com/Articles/Low-pass-filter-calculator.php)
-* [Где взять компоненты](https://mikromuzyka.ru/blog/2021-05-01-kak-nachat-delat-elektronnye-instrumenty-syntezatory-i-effekty/)
+* [Где взять компоненты](/blog/2021-05-01-kak-nachat-delat-elektronnye-instrumenty-syntezatory-i-effekty/)
 

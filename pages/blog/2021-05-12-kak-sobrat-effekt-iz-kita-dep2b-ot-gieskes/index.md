@@ -39,5 +39,5 @@ Gijs Gieskes делает музыкальные инструменты. Стр�
 * [Страничка кита](https://www.gieskes.nl/effects/?file=dep-2)
 * [Демо инструмента на основе телефона от Gijs-а](https://www.youtube.com/watch?v=on1NPXPMqPY)
 * [Купить кит в Patch Point](https://www.patch-point.com/gieskes-diy/dep2b-diy-kit)
-* [Как начать делать электронные музыкальные девайсы, видео и ссылки](https://mikromuzyka.ru/blog/2021-05-01-kak-nachat-delat-elektronnye-instrumenty-syntezatory-i-effekty/)
+* [Как начать делать электронные музыкальные девайсы, видео и ссылки](/blog/2021-05-01-kak-nachat-delat-elektronnye-instrumenty-syntezatory-i-effekty/)
 

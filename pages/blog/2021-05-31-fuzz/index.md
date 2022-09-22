@@ -39,5 +39,5 @@ export default makeBlogPost(meta);
 * [Анализ Big Muff (англ)](https://www.electrosmash.com/big-muff-pi-analysis)
 * [Анализ Fuzz Face (англ)](https://www.electrosmash.com/fuzz-face)
 * [Другой анализ Fuzz Face (англ)](http://www.geofex.com/Article_Folders/fuzzface/fftech.htm)
-* [Где взять компоненты](https://mikromuzyka.ru/blog/2021-05-01-kak-nachat-delat-elektronnye-instrumenty-syntezatory-i-effekty/)
+* [Где взять компоненты](/blog/2021-05-01-kak-nachat-delat-elektronnye-instrumenty-syntezatory-i-effekty/)
 
